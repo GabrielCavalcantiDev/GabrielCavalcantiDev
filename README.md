@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor apaixonado por QA, com e
 - Linguagens: Java, Python
 - Frameworks: Robot Framework
 
-<img src="assets/Java.svg"/> <img src="assets/python.png"/> <img src="assets/Robot-framework.png"/>
+<img src="assets/Java.svg" width= 125/> <img src="assets/python.png" width= 125/> <img src="assets/Robot-framework.png" width= 125/>
 
 🌱 Atualmente aprendendo
 - C#
