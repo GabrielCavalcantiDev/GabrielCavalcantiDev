@@ -1,8 +1,26 @@
+# Olá, sou Gabriel!
+
 <img src="assets/background.png"/>
-- 👋 Hi, I’m @GabrielCavalcantiDev
-- 👀 I’m interested in QA analisys, Python, C#, Java and Robot Framework
-- 🌱 I’m currently learning Typescript
-- 😄 Pronouns: He/Him
+
+
+Bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor apaixonado por QA, com experiência em Java, Python e Robot Framework. Aqui você encontrará meus projetos pessoais, seja de estudo ou apenas por diversão. Sinta-se à vontade para explorar e colaborar!
+
+🔧 Tecnologias que uso:
+- Linguagens: Java, Python
+- Frameworks: Robot Framework
+
+<img src="assets/Java.svg"/> <img src="assets/python.png"/> <img src="assets/Robot-framework.png"/>
+
+🌱 Atualmente aprendendo
+- C#
+- Typescript
+- React
+<img src="assets/Logo_C_sharp.svg"/><img src="assets/Typescript_logo.png"/><img src="assets/react.png"/>
+
+Se precisar entrar em contato, você pode me encontrar no Linkedin ao lado.
+
+Obrigado pela visita!
+
 
 <!---
 GabrielCavalcantiDev/GabrielCavalcantiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
