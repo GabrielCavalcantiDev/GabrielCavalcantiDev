@@ -1,3 +1,4 @@
+<img src="assets/background.png"/>
 - 👋 Hi, I’m @GabrielCavalcantiDev
 - 👀 I’m interested in QA analisys, Python, C#, Java and Robot Framework
 - 🌱 I’m currently learning Typescript
